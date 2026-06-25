@@ -176,3 +176,12 @@ Expected Response:
 Swagger UI:
 
 https://product-browser-yb1f.onrender.com/docs
+
+
+
+Category Are 
+Books
+Electronics
+Fashion
+Home
+Sports
