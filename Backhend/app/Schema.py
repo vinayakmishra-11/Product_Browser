@@ -11,3 +11,7 @@ class ProductResponse(BaseModel):
 
     class Config:
         from_attributes = True
+  
+class ProductPage(BaseModel):
+    products: list[ProductResponse]
+    next_cursor: str | None
