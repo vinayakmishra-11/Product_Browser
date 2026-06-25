@@ -1,0 +1,1 @@
+Backend API for browsing 200,000+ products with category filtering and cursor based pagination.
